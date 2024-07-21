@@ -1,3 +1,3 @@
 # NightFall-Summer-Projects
 
-Let's see how much magic in this repository 
+Let's see how magic this repository is
